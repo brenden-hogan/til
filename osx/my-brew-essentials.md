@@ -1,0 +1,15 @@
+Essential homebrew utilities I use daily. All can be installed with `brew install <name>`
+
+- [zoxide](brew install zoxide)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [chezmoi](https://github.com/twpayne/chezmoi)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
+- [jq](https://github.com/jqlang/jq)
+- [tmux](https://github.com/tmux/tmux)
+- [restic](https://github.com/restic/restic)
+- [unison](https://github.com/bcpierce00/unison)
+- [topgrade](https://github.com/topgrade-rs/topgrade)
+- [yq](https://github.com/mikefarah/yq)
+- [fish](https://github.com/oh-my-fish/oh-my-fish)
+- [eza](https://github.com/eza-community/eza)
+- [stgit](https://github.com/stacked-git/stgit)
