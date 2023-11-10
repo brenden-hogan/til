@@ -1,4 +1,4 @@
-Allows you to have highlighted text in tmux automatically be added to the keyboard. Only valid for OSX.
+Allows you to have highlighted text in tmux automatically be added to the clipboard. Only valid for OSX.
 
 ```
 # To copy, left click and drag to highlight text in yellow,

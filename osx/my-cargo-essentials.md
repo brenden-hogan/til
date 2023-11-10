@@ -8,3 +8,6 @@ Can also be installed via homebrew unless noted
 - [topgrade](https://github.com/topgrade-rs/topgrade)
 - [eza](https://github.com/eza-community/eza)
 - [stgit](https://github.com/stacked-git/stgit)
+- [jql](https://github.com/yamafaktory/jql)
+- [mcfly](https://github.com/cantino/mcfly)
+  - Only if you can't use fish shell
