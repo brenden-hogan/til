@@ -8,3 +8,7 @@
 - Close Pane: `Bind + x`
 - Detach: `Bind + d`
 - Reattach: `tmux a`
+
+## Other resources
+- https://learnxinyminutes.com/docs/tmux/
+- https://gist.github.com/MohamedAlaa/2961058
