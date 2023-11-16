@@ -1,6 +1,6 @@
 Essential homebrew utilities I use daily. All can be installed with `brew install <name>`
 
-- [zoxide](brew install zoxide)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [chezmoi](https://github.com/twpayne/chezmoi)
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
@@ -13,3 +13,4 @@ Essential homebrew utilities I use daily. All can be installed with `brew instal
 - [fish](https://github.com/oh-my-fish/oh-my-fish)
 - [eza](https://github.com/eza-community/eza)
 - [stgit](https://github.com/stacked-git/stgit)
+- [amethyst](https://github.com/ianyh/Amethyst)
