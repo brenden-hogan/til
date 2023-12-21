@@ -4,9 +4,16 @@
 - [Commit Mono](fonts/commitmono.md)
 
 ## OSX
+- [Sync Time](osx/force-time-to-sync.md)
 - [Handy Cmds](osx/handy-osx-cmd-line-tools.md)
 - [My Homebrew Essentials](osx/my-brew-essentials.md)
 - [Page Up/Down without dedicated key](osx/page-up-down-mac-keyboard.md)
+
+## Python
+- linters-formatters-typecheckers
+  - [mypy](python/linters-formaters-typecheckers/mypy.md)
+  - [py_typed](python/linters-formaters-typecheckers/py_typed_file.md)
+  - [ruff](python/linters-formaters-typecheckers/ruff.md)
 
 ## Restic
 - [Basic S3 Backup Setup](restic/basic-backup-setup.md)

@@ -149,9 +149,10 @@ def get_import_lines_and_program_lines(file_path: Path) -> PythonFileDetails:
             continue
         if internal_imports:
             if is_import_line(line):
-                regex_result = re.search(r"^from (\S*) import", line)
+                regex_result = re.search(r"^from\s*(\S*)\s*import", line)
                 if regex_result is not None:
-                    other_file_names.add(regex_result.group(1))
+                    fully_qualified_name = regex_result.group(1)
+                    other_file_names.add(fully_qualified_name.split(".")[-1])
             elif line.startswith(INTERNAL_IMPORT_FOOTER):
                 internal_imports = False
                 continue
