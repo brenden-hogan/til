@@ -1,0 +1,2 @@
+- https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html
+- https://firebog.net/

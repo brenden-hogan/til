@@ -1,4 +1,3 @@
-# SCIENCE FICTION—Below the Line
 - Infinity Gate - M. R. Carey
 - Wool/Silo Series - Hugh Howey
   - Wool
@@ -6,3 +5,5 @@
   - Dust
 - Project Hail Mary - Andy Weir
 - Bobiverse - Dennis E. Taylor
+- The Hitchhikers Guide to the Galaxy Series - Douglas Adams
+- Remembrance of Earth's Past Series - Liu Cixin

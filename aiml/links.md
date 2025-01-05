@@ -1,0 +1,2 @@
+- https://deeprevision.github.io/posts/001-transformer/
+- https://course.spacy.io/en/

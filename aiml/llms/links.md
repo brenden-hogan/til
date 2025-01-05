@@ -1,0 +1,2 @@
+- https://bbycroft.net/llm
+- https://github.com/zylon-ai/private-gpt
